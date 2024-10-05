@@ -1,8 +1,8 @@
 # SCHOOL-REPORT-DASHBOARD
 Project Overview
-The School Report Project is designed to streamline the collection and analysis of student performance data across different schools. The project utilizes data columns related to student assessments, class sizes, and academic scores in subjects such as Mathematics, English, and Basic Science and Technology (BST). The ultimate goal is to calculate grades for each subject and analyze the data using Power BI for deeper insights.
+The School Report Project is designed to streamline the collection and analysis of student performance data across different schools. The ultimate goal is to study the student overall performance compare them with influencing factors and analyze the data using Power BI for deeper insights.
 
-Data Columns
+#Data Columns
 The dataset includes the following columns:
 
 Current school term: Indicates the ongoing school term for the report.

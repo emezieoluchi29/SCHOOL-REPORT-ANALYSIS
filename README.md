@@ -1,6 +1,6 @@
 # SCHOOL-REPORT-DASHBOARD
 
-**Project Overview**
+##**Project Overview**
 
 
 The School Report Project is designed to streamline the collection and analysis of student performance data across different schools. The ultimate goal is to study the student overall performance and compare them with influencing factors and analyze the data using Power BI for deeper insights.

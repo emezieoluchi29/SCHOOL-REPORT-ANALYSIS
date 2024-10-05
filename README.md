@@ -10,7 +10,7 @@ The School Report Project is designed to streamline the collection and analysis 
 
 The dataset includes the following columns:
 
-**Current school term**: Indicates the ongoing school term for the report.
+**.**Current school term: Indicates the ongoing school term for the report.
 
 **Assessment type**: Type of assessment (e.g., mid-term, final, quiz).
 

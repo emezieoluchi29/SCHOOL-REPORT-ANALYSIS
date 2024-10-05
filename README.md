@@ -9,7 +9,6 @@ The School Report Project is designed to streamline the collection and analysis 
 
 
 The dataset includes the following columns:
-
 **Current school term**: Indicates the ongoing school term for the report.
 
 **Assessment type**: Type of assessment (e.g., mid-term, final, quiz).
@@ -36,6 +35,7 @@ The dataset includes the following columns:
 
 
 **Subject-Specific Data**:
+
 
 
 **Mathematics - Average Score**: Average score in Mathematics for the term
@@ -69,7 +69,6 @@ The dataset includes the following columns:
 
 
 Three new columns were created to calculate grades for the following subjects:
-
 Mathematics
 
 English
@@ -83,7 +82,6 @@ These grades are calculated based on the average scores in each subject and foll
 
 
 Power BI was used for analyzing the following aspects:
-
 **Subject Performance Trends**: Compare the performance across Mathematics, English, and BST for both male and female students.
 
 **Class Size Impact**: Analyze the effect of class size on student performance.

@@ -8,16 +8,27 @@ The School Report Project is designed to streamline the collection and analysis 
 The dataset includes the following columns:
 
 **Current school term**: Indicates the ongoing school term for the report.
+
 **Assessment type**: Type of assessment (e.g., mid-term, final, quiz).
+
 **Cohort Year**: The cohort year of the students being assessed.
+
 **ID**: Unique identifier for each student.
+
 **Name**: Student's name.
+
 **Fellowship Pathway**: Pathway associated with the fellowship or program the student is a part of.
+
 **Placement school name**: Name of the school where the student is currently placed.
+
 **Your Coach**: Name of the assigned coach or mentor for the student.
+
 **Placement State**: State where the placement school is located.
+
 **Section taught**: The specific section or grade level being taught.
+
 **Class**: The class the student belongs to.
+
 **Class Size**: Number of students in the class.
 
 
